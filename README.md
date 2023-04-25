@@ -6,6 +6,7 @@ The CTA L Analysis App is a Python-based command-line application designed to an
 * Python 3.x
 * SQLite3 (included in Python standard library)
 * matplotlib
+* CTA Database
 
 ## Installation
 
